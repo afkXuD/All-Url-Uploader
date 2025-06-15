@@ -5,7 +5,7 @@ class Translation:
     START_TEXT = """
 Hi {}
 
-I am Powerful Url Uploader Bot
+I am Powerful Porn Bot 🦊
 """
 
     HELP_TEXT = """
@@ -14,23 +14,27 @@ I am Powerful Url Uploader Bot
 
 # Select the desired option.
 
+# Kya be vivaan lodu aa gya dekh ne
+
+# Sohan randi ye url downloader bot hai 😔💀
+
 # Then be relaxed your file will be uploaded soon..
 """
 
     # give credit to developer
 
     ABOUT_TEXT = """
-<b>♻️ My Name</b> : Url Uploader Bot
+<b>♻️ My Name</b> : Vivaan Porn Bot 
 
-<b>🌀 Channel</b> : <a href="https://t.me/TMWAD">@TMWAD</a>
+<b>🌀 Channel</b> : <a href="https://t.me/null10x">@null10x</a>
 
-<b>🌺 Heroku</b> : <a href="https://heroku.com/">Heroku</a>
+<b>🌺 vivaan </b> : <a href="https://t.me/ll_MR_AVYAAN_ll">Vivaan</a>
 
 <b>📑 Language :</b> <a href="https://www.python.org/">Python 3.10.5</a>
 
 <b>🇵🇲 Framework :</b> <a href="https://docs.pyrogram.org/">Pyrogram 2.0.30</a>
 
-<b>👲 Developer :</b> <a href="https://t.me/kinu6">@kinu6</a>
+<b>👲 Developer :</b> <a href="https://t.me/itx_cs">@itx_cs</a>
 
 """
 
